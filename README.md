@@ -1,6 +1,6 @@
 # 🎮 NLW eSPORTS
 
-
+https://user-images.githubusercontent.com/104745187/190539915-64793326-1613-49ab-a69c-f0193fdc9d20.mp4
 
 > Trilha Explorer
 
